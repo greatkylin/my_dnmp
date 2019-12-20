@@ -1,0 +1,6 @@
+/.env
+/nginx/ssl
+/data
+!/data/README.md
+/www
+!/www/README.md
